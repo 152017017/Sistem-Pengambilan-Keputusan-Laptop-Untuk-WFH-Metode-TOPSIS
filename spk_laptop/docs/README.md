@@ -12,24 +12,6 @@
 - [![](https://img.shields.io/badge/javascript-1.8-FFCA28.svg)](https://www.w3schools.com/js/default.asp)
 - [![](https://img.shields.io/badge/php-7.1.8-673AB7.svg)](https://www.php.net/) 
 - [![](https://img.shields.io/badge/mysql-5.0.12-yellow.svg)](https://www.mysql.com/) 
-
-## Screenshot
-
-- ### Web
-    
-    ![](https://raw.githubusercontent.com/wahidari/spk_pemilihan_hp/master/ss/a.PNG)
-    
-    ![](https://raw.githubusercontent.com/wahidari/spk_pemilihan_hp/master/ss/b.PNG)
-    
-    ![](https://raw.githubusercontent.com/wahidari/spk_pemilihan_hp/master/ss/c.PNG)
-    
-    ![](https://raw.githubusercontent.com/wahidari/spk_pemilihan_hp/master/ss/d.PNG)
-    
-    ![](https://raw.githubusercontent.com/wahidari/spk_pemilihan_hp/master/ss/e.PNG)
-    
-    ![](https://raw.githubusercontent.com/wahidari/spk_pemilihan_hp/master/ss/f.PNG)
-    
-    ![](https://raw.githubusercontent.com/wahidari/spk_pemilihan_hp/master/ss/g.PNG)
     
 ## License
 > This program is Free Software: 
