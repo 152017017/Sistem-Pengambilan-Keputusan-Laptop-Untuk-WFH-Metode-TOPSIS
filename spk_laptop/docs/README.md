@@ -1,6 +1,5 @@
 # Sistem Pengambilan Keputusan Laptop Untuk WFH Metode TOPSIS
 
-[![](https://gitlab.com/gitlab-org/gitlab-ee/badges/master/build.svg)]
 [![](https://semaphoreci.com/api/v1/projects/2f1a5809-418b-4cc2-a1f4-819607579fe7/400484/shields_badge.svg)]
 [![](https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat&maxAge=86400)]
 
